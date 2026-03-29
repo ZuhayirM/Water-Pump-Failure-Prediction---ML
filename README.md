@@ -1,4 +1,4 @@
-# Water-Pump-Failure-Prediction---ML
+# Water-Pump-Failure-Prediction(Python)---Maching Learning
 
 ## Project Overview
 This project uses machine learning to predict whether a water pump is functional or non-functional. The goal is to support better maintenance planning by identifying pumps that are likely to fail.
